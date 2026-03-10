@@ -1,0 +1,180 @@
+Algo          : SPA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 3.400000
+sigma^2       : 0.299360575
+Decoded bits  : 7810000
+Bit errors    : 714
+BER           : 9.142125480e-05
+Blocks (all)  : 10000
+Block errors  : 19
+BLER          : 1.900000000e-03
+Elapsed (sec) : 80.729
+
+Algo          : SPA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 3.000000
+sigma^2       : 0.328242343
+Decoded bits  : 7810000
+Bit errors    : 9905
+BER           : 1.268245839e-03
+Blocks (all)  : 10000
+Block errors  : 231
+BLER          : 2.310000000e-02
+Elapsed (sec) : 176.165
+
+Algo          : SPA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 2.000000
+sigma^2       : 0.413232627
+Decoded bits  : 7810000
+Bit errors    : 398508
+BER           : 5.102535211e-02
+Blocks (all)  : 10000
+Block errors  : 8759
+BLER          : 8.759000000e-01
+Elapsed (sec) : 1444.548
+
+Algo          : SPA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 1.000000
+sigma^2       : 0.520229055
+Decoded bits  : 7810000
+Bit errors    : 643999
+BER           : 8.245825864e-02
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 1608.216
+
+---------------------------MSA
+Algo          : MSA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 3.400000
+sigma^2       : 0.299360575
+Decoded bits  : 7810000
+Bit errors    : 392021
+BER           : 5.019475032e-02
+Blocks (all)  : 10000
+Block errors  : 5063
+BLER          : 5.063000000e-01
+Elapsed (sec) : 1845.762
+
+
+
+Algo          : MSA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 3.000000
+sigma^2       : 0.328242343
+Decoded bits  : 7810000
+Bit errors    : 698178
+BER           : 8.939539052e-02
+Blocks (all)  : 10000
+Block errors  : 8799
+BLER          : 8.799000000e-01
+Elapsed (sec) : 3221.467
+
+
+Algo          : MSA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 2.000000
+sigma^2       : 0.413232627
+Decoded bits  : 7810000
+Bit errors    : 890333
+BER           : 1.139991037e-01
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 3664.239
+
+
+Algo          : MSA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 1.000000
+sigma^2       : 0.520229055
+Decoded bits  : 7810000
+Bit errors    : 1010511
+BER           : 1.293868118e-01
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 3660.766
+
+Algo          : MSA
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 4.200000
+sigma^2       : 0.248997281
+Decoded bits  : 7810000
+Bit errors    : 7643
+BER           : 9.786171575e-04
+Blocks (all)  : 10000
+Block errors  : 106
+BLER          : 1.060000000e-02
+Elapsed (sec) : 89.251
+
+
+--------------------------BF
+
+Algo          : BF
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 3.400000
+sigma^2       : 0.299360575
+Decoded bits  : 7810000
+Bit errors    : 265346
+BER           : 3.397516005e-02
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 162.759
+
+Algo          : BF
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 3.000000
+sigma^2       : 0.328242343
+Decoded bits  : 7810000
+Bit errors    : 316618
+BER           : 4.054007682e-02
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 161.334
+
+Algo          : BF
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 2.000000
+sigma^2       : 0.413232627
+Decoded bits  : 7810000
+Bit errors    : 468472
+BER           : 5.998361076e-02
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 160.102
+
+Algo          : BF
+Blocks        : 10000
+Max Iters     : 100
+Eb/N0 (dB)    : 1.000000
+sigma^2       : 0.520229055
+Decoded bits  : 7810000
+Bit errors    : 646667
+BER           : 8.279987196e-02
+Blocks (all)  : 10000
+Block errors  : 10000
+BLER          : 1.000000000e+00
+Elapsed (sec) : 155.566
+
+
+
+

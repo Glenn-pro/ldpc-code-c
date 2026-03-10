@@ -1,0 +1,5 @@
+10000 %Number of decoded blocks
+100   %Number of iterations
+1.0   %SNR: bit signal-to-noise ratio (dB)
+-2024 %:Seed: a negative integer
+0     %0=>SPA; 1=>MSA; 2=>BF

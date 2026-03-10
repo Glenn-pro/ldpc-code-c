@@ -1,6 +1,3 @@
-# ldpc-code-c
-C implementation of LDPC encoding and decoding
-
 # LDPC (1023,781) C 語言實作
 
 以 **C 語言**實作 **LDPC (1023,781)** 編碼與解碼模擬，並在 **AWGN 通道**下觀察 **BER / BLER** 的效能表現。
